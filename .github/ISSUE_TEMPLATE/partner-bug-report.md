@@ -18,8 +18,8 @@ A clear and concise description of what the bug is.
 **Partner Info:**
  - PartnerId:[e.g. Sj-u0FG7SRYmxu5spz76Ykg]  
  - Connection: [e.g. wi-fi/ 3G/ 4G]
- - Current driver status (```admin panel```):[e.g on/off/disabled.....]
- - Current driver status (```reported from driver```):[e.g on/off/disabled.....]
+ - Current driver status (```admin panel```):[e.g on/off/disconected/trip.....]
+ - Current driver status (```reported from driver```):[e.g on/off/trip.....]
 
 **Order Info:**
  - OrderId:[e.g. 5e1355625b5b510001e019f3]
